@@ -36,6 +36,8 @@ This dashboard is designed to provide actionable insights and facilitate data-dr
 **Skills Demonstrated**
 
 Data Analysis: Deriving actionable insights from complex datasets.
+
 Visualization: Creating intuitive and informative data visualizations.
+
 Analytical Thinking: Applying analytical skills to identify trends and patterns.
 
